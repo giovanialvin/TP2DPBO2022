@@ -8,3 +8,18 @@ Dalam tabel bidang_divisi saya membuat atribut id_bidang untuk mengisi id dari t
 Dalam tabel pengurus saya membuat atribut id_pengurus untuk mengisi id dari pengurus, id_bidang yang merupakan foreign key dari tabel bidang untuk menghubungkan kedua tabel,  nama  untuk memberi nama pada pengurus,nim sebagai nim pengurus,jabatan yang merupakan gabungan dari posisi dan bidang yang dijalaninya, divisi sebagai penanda letak divisi. <br>
 
 ## Hasil Akhir
+### Overall Tampilan
+
+### Contoh Add Record Pengurus
+
+### Contoh Edit Record Pengurus
+https://user-images.githubusercontent.com/99602640/163693761-8abfb6be-47d0-4c11-baaf-365f986cb399.mp4
+
+### Contoh Delete Record Pengurus
+https://user-images.githubusercontent.com/99602640/163693750-3297a8ca-4282-4671-b276-ce45f4751489.mp4
+
+### Contoh Edit dan Delete Tabel Bidang dan Divisi
+https://user-images.githubusercontent.com/99602640/163693785-3257cf0c-fa90-4c2e-b35c-6a3bc27b5716.mp4
+
+
+
