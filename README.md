@@ -20,6 +20,7 @@ Pada tampilan bidang, terdapat tabel bidang yang berisi semua record bidang, lin
 Pada tampilan anggota, terdapat tabel anggota yang berisi semua record anggota, link menuju profile milik anggota tersebut, dan tombol action untuk delete dan update.<br>
 
 https://drive.google.com/file/d/1012We0z-AaUA9ZnR19d34RAsZVPh1cV6/view?usp=sharing
+<br>
 note : mohon maaf dalam perekaman yang patah patah karena keterbatasan device. <br>
 
 
