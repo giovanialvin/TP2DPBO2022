@@ -1,0 +1,128 @@
+*, html{
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* background-color: #EEEEEE; */
+    color: #0F044C;
+    font-size: 20px;
+}
+
+header{
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid black; */
+    align-items: center;
+    background-color: #787A91;
+}
+
+
+
+header ul{
+    /* background-color: #787A91; */
+
+    display: flex;
+}
+
+header li, header .logo, header .nav{
+    /* background-color: #787A91; */
+
+    padding: 15px 10px;
+    /* padding-top: 5px; */
+
+}
+
+header a{
+    font-weight: bold;
+    background-color: #787A91;
+
+    text-decoration: none ;
+}
+
+header .nav a{
+    padding: 5px;
+}
+
+header a:hover{
+    color: #EEEEEE;
+}
+
+.judul{
+    background-color: none;
+
+    padding : 215px 50px;
+    /* margin: 20px auto;  */
+    text-align: center;
+    background-image: url('../img/banner.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /* border: 1px solid; */
+}
+
+
+.judul h1{
+    margin-top: 20px;
+    font-size: 50px;
+    /* background-color: none;
+     */
+     color: #EEEEEE;
+
+}
+
+.judul h2{
+    font-size: 30px;
+    /* background-color: none;
+     */
+     color: #EEEEEE;
+
+}
+
+.pimpinan{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.kominfo, .advokasi, .PSDM, .mikat{
+    padding: 50px 0;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.kominfo, .PSDM{
+    background-color: #f5f5f5;
+    /* border: 1px solid; */
+}
+.pimpinan h1, .kominfo h1, .advokasi h1, .PSDM h1, .mikat h1{
+    font-size: 40px;
+    font-weight: bold;
+    font-style:normal ;
+    margin-top: 20px;
+}
+
+
+
+.kabem-wakabem h2, .sekretaris h2, .bendahara h2, .kominfo h2, .advokasi h2, .PSDM h2, .mikat h2{
+    margin-top: 15px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #141E61 ;
+}
+
+.kabem-wakabem img, .sekretaris img, .bendahara img, .kominfo img, .advokasi img, .PSDM img, .mikat img{
+    margin-top: 5px;
+}
+
+p{
+    margin-bottom: 20px;
+}
+
+.sekben, .sekretaris, .bendahara, .komunikasi, .informasi, .advokasi-bidang, .kaderisasi, .Penelitian-dan-Pengembangan, .olahraga, .seni{
+    display: flex;
+    justify-content: space-around;
+}
+
+footer p{
+    background-color: #0F044C;
+}
+
